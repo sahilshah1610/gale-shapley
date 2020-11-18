@@ -1,0 +1,9 @@
+  0 and 7
+  6 and 3
+  2 and 1
+  4 and 9
+  9 dumped 4 for 8
+  4 and 5
+Engagements
+{'7': '0', '3': '6', '1': '2', '9': '8', '5': '4'}
+End_time is 0.005982160568237305
